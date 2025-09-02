@@ -1,0 +1,7 @@
+📋 Prerequisites
+
+- Docker (v20.0+)                           ✅      $ docker -v                 Docker version 28.3.0, build 38b7060
+- Docker Compose (v2.0+)                    ✅      $ docker compose version    Docker Compose version v2.37.3
+- Node.js (v18+) - for frontend development ✅      $ node -v                   v18.18.0
+- Python (v3.11+) - for backend development ✅      $ python3                   Python 3.12.3
+
